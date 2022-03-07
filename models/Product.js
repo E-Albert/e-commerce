@@ -18,18 +18,18 @@ Product.init(
     },
     
     product_name: {
-      type: Datatypes.STRING,
+      type: DataTypes.STRING,
       allowNull: false
     },
     stock: {
-      type: Datatypes.DECIMAL,
+      type: DataTypes.DECIMAL,
       allowNull: false,
       validate: {
         isNumeric: true,
       }
     },
     category_id: {
-      type: Datatypes.INTEGER,
+      type: DataTypes.INTEGER,
       allowNull: true,
       references: {
         model: 'catergory',
