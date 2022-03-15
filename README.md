@@ -14,7 +14,7 @@ Here is a screenshot of Insomnia and the routes that are made for each operation
 
 ![ScreenshotOfInsomnia](./assets/img/E-commerceSS.png)
 
-To see the code behind all of this feel free to visit the repo on [Github.](https://github.com/E-Albert/e-commerce-back-end)
+To see the code behind all of this feel free to visit the repo on [Github.](https://github.com/E-Albert/e-commerce)
 
 
 
